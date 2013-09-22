@@ -24,7 +24,7 @@ Parce que Swizec, le gars qui écrit Livre en serait très heureux !
 
 <!-- More importantly, it will let you in on the inner workings of programmers, those strange people making your modern life possible. The guys creating your internet, the lasses who make credit card systems, those people making sure opposing streets on a crossroads don't get green lights at the same time. Not to mention the heroes making sure airplanes don't fall out of the sky and your airbags deploy on time. -->
 
-Plus serieusement, ça va vous permettre de découvrir comment travaille les développeurs, ces étranges personnes qui rendent possible notre monde moderne. Ces gars qui créent votre Internet, les personnes qui font les systèmes de carte banquaire, les gens qui font en sorte que les feux verts ne soient pas allumées en même temps sur des routes opposées. Sans mentionner ces héros qui font en sorte que les avions ne tombent pas du ciel et que vos airbags se gonflent à temps.
+Plus serieusement, ça va vous permettre de découvrir comment travaillent les développeurs, ces étranges personnes qui rendent possible notre monde moderne. Ces gars qui créent votre Internet, les personnes qui font les systèmes de carte banquaire, les gens qui font en sorte que les feux verts ne soient pas allumées en même temps sur des routes opposées. Sans mentionner ces héros qui font en sorte que les avions ne tombent pas du ciel et que vos airbags se gonflent à temps.
 
 <!-- If there's a part of your life that programmers have yet to touch, I bet somebody in a research lab somewhere (probably Japan) is trying to change that as we speak. Think of toilets, [toilets have a lot of computers attached in Japan](http://priceonomics.com/toilets/). -->
 
