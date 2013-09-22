@@ -28,7 +28,7 @@ Plus serieusement, ça va vous permettre de découvrir comment travaille les pro
 
 <!-- If there's a part of your life that programmers have yet to touch, I bet somebody in a research lab somewhere (probably Japan) is trying to change that as we speak. Think of toilets, [toilets have a lot of computers attached in Japan](http://priceonomics.com/toilets/). -->
 
-Si il y a une partie de votre vie qui doit encore toucher au programmeurs, je parie qu'une personne dans un labo de recherche quelque part (probablement au Japon) est en train d’essayer de changer ça en ce moment. Pensez aux toilettes, [les toilettes sont très rattachées aux ordinateurs au Japon](http://priceonomics.com/toilets/).
+S’il y a une partie de votre vie que les programmeurs ne touchent pas déjà, je parie qu'une personne dans un labo de recherche quelque part (probablement au Japon) est en train d’essayer de changer ça en ce moment. Pensez aux toilettes, [les toilettes sont très rattachées aux ordinateurs au Japon](http://priceonomics.com/toilets/).
 
 <!-- Wouldn't it be marvelous to find out more about programmers? -->
 
