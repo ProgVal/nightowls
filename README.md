@@ -20,7 +20,7 @@ Wouldn't it be marvelous to find out more about programmers?
 
 Book is for programmers and the people who have to deal with programmers' strange habits all the time.
 
-Wives, girlfriends, boyfriends, husbands, managers, sons, daughters ...  if there's a programmer in your life, you should probably read Book, it will make your programmer like you even more than they already do.
+Wives, girlfriends, boyfriends, husbands, managers, sons, daughters…  if there's a programmer in your life, you should probably read Book, it will make your programmer like you even more than they already do.
 
 If you're a programmer, the last part of Book is for you. Reading the other parts might make you nod your head in agreement, if it doesn't, you should write to Swizec.
 
@@ -42,7 +42,7 @@ Book is not hard science. It's a collection of opinions weighed by conversations
 
 This Book is still a work in progress, if you are reading via [the Github repository](https://github.com/Swizec/nightowls), that's wonderful! Make sure to give me your feedback, Github Issues exist for a reason.
 
-If you're already reading via purchased pdf, that's _awesome_ and you should feel good. Thanks for supporting this project :)
+If you're already reading via purchased pdf, that's _awesome_ and you should feel good. Thanks for supporting this project :)
 
 I am calling this version 0.3. The most interesting section right now is **About flow**, with **Working with programmers** coming in as a close second. **Why programmers work at night** contains some interesting science about intelligence, creativity and sleeping habits, plus a bit of cool trivia if you're too young to remember hacking history.
 
