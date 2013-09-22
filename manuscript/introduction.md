@@ -24,15 +24,15 @@ Parce que Swizec, le gars qui écrit Livre en serait très heureux !
 
 <!-- More importantly, it will let you in on the inner workings of programmers, those strange people making your modern life possible. The guys creating your internet, the lasses who make credit card systems, those people making sure opposing streets on a crossroads don't get green lights at the same time. Not to mention the heroes making sure airplanes don't fall out of the sky and your airbags deploy on time. -->
 
-Plus serieusement, ça va vous permettre de découvrir comment travaille les programmeurs, ces étranges personnes qui rendent possible notre monde moderne. Ces gars qui créent votre Internet, les personnes qui font les systèmes de carte banquaire, les gens qui font en sorte que les feux verts ne soient pas allumées en même temps sur des routes opposées. Sans mentionner ces héros qui font en sorte que les avions ne tombent pas du ciel et que vos airbags se gonflent à temps.
+Plus serieusement, ça va vous permettre de découvrir comment travaillent les développeurs, ces étranges personnes qui rendent possible notre monde moderne. Ces gars qui créent votre Internet, les personnes qui font les systèmes de carte banquaire, les gens qui font en sorte que les feux verts ne soient pas allumées en même temps sur des routes opposées. Sans mentionner ces héros qui font en sorte que les avions ne tombent pas du ciel et que vos airbags se gonflent à temps.
 
 <!-- If there's a part of your life that programmers have yet to touch, I bet somebody in a research lab somewhere (probably Japan) is trying to change that as we speak. Think of toilets, [toilets have a lot of computers attached in Japan](http://priceonomics.com/toilets/). -->
 
-S’il y a une partie de votre vie que les programmeurs ne touchent pas déjà, je parie qu'une personne dans un labo de recherche quelque part (probablement au Japon) est en train d’essayer de changer ça en ce moment. Pensez aux toilettes, [les toilettes sont très rattachées aux ordinateurs au Japon](http://priceonomics.com/toilets/).
+S’il y a une partie de votre vie que les développeurs ne touchent pas déjà, je parie qu'une personne dans un labo de recherche quelque part (probablement au Japon) est en train d’essayer de changer ça en ce moment. Pensez aux toilettes, [les toilettes sont très rattachées aux ordinateurs au Japon](http://priceonomics.com/toilets/).
 
 <!-- Wouldn't it be marvelous to find out more about programmers? -->
 
-Ne serait-t-il pas merveilleux d’en découvrir plus sur les programmeurs ?
+Ne serait-t-il pas merveilleux d’en découvrir plus sur les développeurs ?
 
 <!-- ## Whom Book is for -->
 
@@ -40,15 +40,15 @@ Ne serait-t-il pas merveilleux d’en découvrir plus sur les programmeurs ?
 
 <!-- Book is for programmers and the people who have to deal with programmers' strange habits all the time. -->
 
-Livre est pour les programmeurs ainsi que les gens qui ont affaire avec leurs étranges habitudes.
+Livre est pour les développeurs ainsi que les gens qui ont affaire avec leurs étranges habitudes.
 
 <!-- Wives, girlfriends, boyfriends, husbands, managers, sons, daughters ...  if there's a programmer in your life, you should probably read Book, it will make your programmer like you even more than they already do. -->
 
-Femmes, petites-copines, petits-copains, maris, managers, fils, filles… si vous avez un programmeur dans votre vie, vous devriez probablement lire Livre, ce programmeur va vous aimer d'aventage.
+Femmes, petites-copines, petits-copains, maris, managers, fils, filles… si vous avez un développeur dans votre vie, vous devriez probablement lire Livre, ce développeur va vous aimer d'aventage.
 
 <!-- If you're a programmer, the last part of Book is for you. Reading the other parts might make you nod your head in agreement, if it doesn't, you should write to Swizec. -->
 
-Si vous êtes un programmeur, la dernière partie de Livre est pour vous. Lire les autres parties vont sans doute vous faire hocher la tête, dans le cas contraire, vous devriez écrire à Swizec.
+Si vous êtes un développeur, la dernière partie de Livre est pour vous. Lire les autres parties vont sans doute vous faire hocher la tête, dans le cas contraire, vous devriez écrire à Swizec.
 
 <!-- ## What Book contains -->
 
@@ -60,7 +60,7 @@ Livre possède quatre chapitres.
 
 <!-- First we'll explore whether programmers do in fact work at night or that's more of a myth than not. -->
 
-Premièrement, nous allons déterminer si en effet, les programmeurs travaillent la nuit, ou si c’est un mythe.
+Premièrement, nous allons déterminer si en effet, les développeurs travaillent la nuit, ou si c’est un mythe.
 
 <!-- Then we'll see some reasons about why they work at night to help everyone understand what's going on. -->
 
@@ -68,7 +68,7 @@ Puis, nous allons voir les raisons de ce travail de nuit, pour aider tout le mon
 
 <!-- Lastly, there's going to be some practical guides aimed first at people who aren't programmers but have to deal with them. And some tips for programmers themselves to help them, perhaps, avoid working at night … or just get more out of the night. You could call them productivity tips. -->
 
-Finalement, il va y avoir quelques guides pratiques fait pour les non programmeurs, mais qui doivent travailler avec. Et quelques astuces pour les programmeurs, afin de les aider, sans-doute, à éviter de travailler la nuit… ou alors en profiter au maximum. Vous pouvez appeller ça des astuces pour la productivité.
+Finalement, il va y avoir quelques guides pratiques fait pour les non développeurs, mais qui doivent travailler avec. Et quelques astuces pour les développeurs, afin de les aider, sans-doute, à éviter de travailler la nuit… ou alors en profiter au maximum. Vous pouvez appeller ça des astuces pour la productivité.
 
 <!-- ## What is not in Book -->
 
@@ -76,7 +76,7 @@ Finalement, il va y avoir quelques guides pratiques fait pour les non programmeu
 
 <!-- Book is not hard science. It's a collection of opinions weighed by conversations with other programmers online and off, reading some research about sleep and so on. If you want to look at hard science on the subject, you should talk to some of the wonderful people who research this stuff for a living. -->
 
-Livre n'est pas purement scienfifique. C'est un ensemble d'opinions recueuillies via des conversations avec des programmeurs, en ligne ou hors ligne, de la lecture sur le sommeil, et j'en passe. Si vous voulez voir l’aspect scientifique de la chose, vous devriez aller parler à ces merveilleuses personnes qui recherchent ce genre de chose afin de vivre.
+Livre n'est pas purement scienfifique. C'est un ensemble d'opinions recueuillies via des conversations avec des développeurs, en ligne ou hors ligne, de la lecture sur le sommeil, et j'en passe. Si vous voulez voir l’aspect scientifique de la chose, vous devriez aller parler à ces merveilleuses personnes qui recherchent ce genre de chose afin de vivre.
 
 <!-- ## How finished is Book -->
 
@@ -92,11 +92,11 @@ Si vous lisez via le pdf acheté, c'est _génial_ et vous devriez vous sentir bi
 
 <!-- I am calling this version 0.3. The most interesting section right now is **About flow**, with **Working with programmers** coming in as a close second. **Why programmers work at night** contains some interesting science about intelligence, creativity and sleeping habits, plus a bit of cool trivia if you're too young to remember hacking history. -->
 
-J'appelle ça version 0.3. La partie la plus intéressante actuellement est **à propos de l'immersion**, avec **Travailler avec des programmeurs** qui arrive derrière. **Pourquoi les programmeurs travaillent la nuit** contient une étude scientifique à propos de l’intelligence, de la créativité, et des habitudes de sommeil, plus quelques informations si vous êtes trop jeune pour vous souvenir de l’histoire de la programmation. 
+J'appelle ça version 0.3. La partie la plus intéressante actuellement est **à propos de l'immersion**, avec **Travailler avec des développeurs** qui arrive derrière. **Pourquoi les développeurs travaillent la nuit** contient une étude scientifique à propos de l’intelligence, de la créativité, et des habitudes de sommeil, plus quelques informations si vous êtes trop jeune pour vous souvenir de l’histoire de la programmation. 
 
 <!-- If you like data, you should definitely check out the Statistics part of **Do programmers work at night?**, it contains an analysis of some 500,000 github repositories. -->
 
-Si vous aimez les données, vous devez absolument aller voir la partie Statistiques de **Pourquoi les programmeurs travaillent-ils la nuit ?**, elle contient une analyse de plus de 500 000 dépôts github.
+Si vous aimez les données, vous devez absolument aller voir la partie Statistiques de **Pourquoi les développeurs travaillent-ils la nuit ?**, elle contient une analyse de plus de 500 000 dépôts github.
 
 <!-- ## Why listen to Swizec -->
 
@@ -108,7 +108,7 @@ Vraiment, je suis juste un gars qui aime programmer.
 
 <!-- I have spent the past 16 years of my life either attached to a  computer or talking to other programmers for most of my waking life. Not sure that makes me suitable to talk about programmers and their habits, but I'll be damned if I don't try. -->
 
-J'ai passé ces 16 dernières années de ma vie soit attaché à un ordinateur soit à parler a des autres programeurs. Je ne suis pas certain que ça me rend capable de parler des programmeurs et de leurs habitudes, mais je serais maudit si je n’essaye pas.
+J'ai passé ces 16 dernières années de ma vie soit attaché à un ordinateur soit à parler a des autres programeurs. Je ne suis pas certain que ça me rend capable de parler des développeurs et de leurs habitudes, mais je serais maudit si je n’essaye pas.
 
 <!-- Aside from programming, I also write a reasonably well read blog at [swizec.com](http://swizec.com) - there's a tiny chance you've seen it before. I keep being surprised by real life people mentioning they've read something on my blog. Don't think I will ever get used to that. -->
 

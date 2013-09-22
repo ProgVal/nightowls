@@ -1,69 +1,127 @@
-## A geek with a hat » Why programmers work at night
+<!-- ## A geek with a hat » Why programmers work at night -->
 
-A popular saying goes that [Programmers](http://en.wikipedia.org/wiki/Programmer) are machines that turn caffeine into [code](http://en.wikipedia.org/wiki/Source_code).
+Un geek avec un chapeau » Pourquoi les développeurs travaillent la nuit
 
-And sure enough, ask a random programmer when they do their best work and there's a high chance they will admit to a lot of late nights. Some earlier, some later. A popular trend is to get up at 4am and get some work done before the day's craziness begins. Others like _going_ to bed at 4am.
+<!-- A popular saying goes that [Programmers](http://en.wikipedia.org/wiki/Programmer) are machines that turn caffeine into [code](http://en.wikipedia.org/wiki/Source_code). -->
 
-At the gist of all this is avoiding distractions. But you could just lock the door, what's so special about the night?
+Un dicton populaire dit que les [Développeurs](https://fr.wikipedia.org/wiki/Développeurs) sont des machines qui transforment le café en [code source](https://fr.wikipedia.org/wiki/Code_source).
 
-I think it boils down to three things: the maker's schedule, the sleepy brain and bright computer screens.
+<!-- And sure enough, ask a random programmer when they do their best work and there's a high chance they will admit to a lot of late nights. Some earlier, some later. A popular trend is to get up at 4am and get some work done before the day's craziness begins. Others like _going_ to bed at 4am. -->
 
-## The maker's schedule
+Et, bien sûr, demandez à un développeur quand ils travaillent le mieux, vous aurez une grande chance qu'ils vous disent travailler souvent tard la nuit. Certains plus tôt que d'autres. Une tendance populaire est de se level à 4 heure du matin, et de travailler avant que le jour se lève. D'autres _commencent_ à aller se coucher à 4 heure.
 
-[Paul Graham](http://paulgraham.com/) wrote about [the maker's schedule](http://www.paulgraham.com/makersschedule.html) in 2009 -- basically that there are two types of schedules in this world (primarily?). The traditional manager's schedule where your day is cut up into hours and a ten minute distraction costs you, at most, an hour's worth of time.
+<!-- At the gist of all this is avoiding distractions. But you could just lock the door, what's so special about the night? -->
+
+L'essenciel de tout ceci est d'éviter les distractions. Mais vous pourriez aussi bien fermer la porte, alors qu'a la nuit de si spécial ?
+
+<!-- I think it boils down to three things: the maker's schedule, the sleepy brain and bright computer screens. -->
+
+Je pense que c'est une mélange de trois choses : les horaires du créatif, le cerveau endormi, et l'écran d'ordinateur éclairé.
+
+<!-- ## The maker's schedule -->
+
+## Les horaires du créatif
+
+<!-- [Paul Graham](http://paulgraham.com/) wrote about [the maker's schedule](http://www.paulgraham.com/makersschedule.html) in 2009 -- basically that there are two types of schedules in this world (primarily?). The traditional manager's schedule where your day is cut up into hours and a ten minute distraction costs you, at most, an hour's worth of time. -->
+
+[Paul Graham](http://paulgraham.com/) a écrit sur [les horaires du créatif](http://www.paulgraham.com/makersschedule.html) en 2009 -- basiquement, nous avons deux types d'horaires dans ce monde (principalement?). Les horaires du « manager » traditionnel, où le jour est découpé en heures et où une distraction de dix minutes vous coute, au plus, l'équivalent d'une heure en temps.
+
+<!-- Image via Wikipedia -->
 
 Image via Wikipedia
 
-On the other hand you have something PG calls the maker's schedule -- a schedule for those of us who produce stuff. Working on large abstract systems involves fitting the whole thing into your mind -- somebody once likened this to constructing a house out of expensive [crystal glass](http://en.wikipedia.org/wiki/Lead_glass)and as soon as someone distracts you, it all comes barreling down and shatters into a thousand pieces.
+<!-- On the other hand you have something PG calls the maker's schedule -- a schedule for those of us who produce stuff. Working on large abstract systems involves fitting the whole thing into your mind -- somebody once likened this to constructing a house out of expensive [crystal glass](http://en.wikipedia.org/wiki/Lead_glass)and as soon as someone distracts you, it all comes barreling down and shatters into a thousand pieces. -->
 
-This is why programmers are so annoyed when you distract them.
+D'autre part, vous avez quelque chose (PG?) appellé les horaires du créatif -- des horaires pour ceux qui produisent. Travailler sur des larges systèmes abstraits requiert d'occuper tout votre esprit -- une fois, une personne à comparé celà à consuruire une maison avec du [cristal de verre](https://fr.wikipedia.org/wiki/Cristal_(verre)) (très cher). Sur cette construction, à chaque fois qu'une personne vous dérange, toute la construction se renverse et se détruit en des milliers de pièces.
 
-Because of this huge mental investment, we simply can't start working until we can expect a couple of hours without being distracted. It's just not worth constructing the whole model in your head and then having it torn down half an hour later.
+<!-- This is why programmers are so annoyed when you distract them. -->
 
-In fact, talking to a lot of founders you'll find out they feel like they simply can't get any work done during the day. The constant barrage of interruptions, important stuff ™ to tend to and emails to answer simply don't allow it. So they get most of their "work work" done during the night when everyone else is sleeping.
+C'est pourquoi les développeurs sont si agacés quand vous les dérangez.
 
-## The sleepy brain
+<!-- Because of this huge mental investment, we simply can't start working until we can expect a couple of hours without being distracted. It's just not worth constructing the whole model in your head and then having it torn down half an hour later. -->
 
-But even programmers should be sleeping at night. We are not some race of super humans. Even programmers feel more alert during the day.
+À cause ce cet énorme investissement mental, nous ne pouvons simplement pas commencer à travailler sans avoir passé quelques heures sans avoir été dérangé. Ça ne vaut pas le coup de construire tout un modèle dans votre tête et de voir tout se détruire une heure après.
+
+<!-- In fact, talking to a lot of founders you'll find out they feel like they simply can't get any work done during the day. The constant barrage of interruptions, important stuff ™ to tend to and emails to answer simply don't allow it. So they get most of their "work work" done during the night when everyone else is sleeping. -->
+
+En fait, parlez à beaucoup de créatifs, et vous verrez qu'ils ne se sentent pas pouvoir travailler durant le jour. Ce constant barrage d'intérruptions, de choses importantes ™ à faire et les emails auquels répondre ne le permettent simplement pas. Donc, ils font la part la plus importante de leur travail pendant la nuit, quand tout le monde est en train de dormir.
+
+<!-- ## The sleepy brain -->
+
+## Le cerveau endormi
+
+<!-- But even programmers should be sleeping at night. We are not some race of super humans. Even programmers feel more alert during the day. -->
+
+Mais même les développeurs devraient dormir la nuit. Nous ne sommes pas une race de super humains. Même les développeurs se sentent plus avertis (?) la journée.
+
+<!-- Ballmer's peak -->
 
 Ballmer's peak
 
-Why then do we perform our most mentally complex work work when the brain wants to sleep and we do simpler tasks when our brain is at its sharpest and brightest?
+<!-- Why then do we perform our most mentally complex work work when the brain wants to sleep and we do simpler tasks when our brain is at its sharpest and brightest? -->
 
-Because being tired makes us better coders.
+Alors pourquoi vouloir faire ce travail complèxe quand le cerveau demande à dormir, et faire le travail plus simple quand notre cerveau est le plus affuté et le plus réveillé ?
 
-Similar to the ballmer peak, being tired can make us focus better simply because when your brain is tired it _has_ to focus! There isn't enough left-over brainpower to afford losing concentration.
+<!-- Because being tired makes us better coders. -->
 
-I seem to get the least work done right after drinking too much tea or having a poorly timed [energy drink](http://en.wikipedia.org/wiki/Energy_drink). Makes me hyperactive and one second I'm checking twitter, the next I'm looking at hacker news and I just seem to be buzzing all over the place..
+Parce qu'être fatigués fait de nous des meilleurs codeurs.
 
-You'd think I'd work better -- so much energy, so much infinite overclocked brainpower. But instead I keep tripping over myself because I can't focus for more than two seconds at a time.
+<!-- Similar to the ballmer peak, being tired can make us focus better simply because when your brain is tired it _has_ to focus! There isn't enough left-over brainpower to afford losing concentration. -->
 
-Conversely, when I'm slightly tired, I just plomp my arse down and _code_. With a slightly tired brain I can code for hours and hours without even thinking about checking twitter or facebook. It's like the internet stops existing.
+Similaire au pic de ballmer, être fatigués nous permet de se concentrer plus facilement car notre cerveau est fatigué. Il _doit_ se concentrer. Il n'y a pas suffisamment de « puissance cérébrale » restante pour se permettre de perdre de la concentration.
 
-I feel like this holds true for most programmers out there. We have too much brainpower for ~80% of the tasks we work on -- face it, writing that one juicy algorithm, requires ten times as much code to produce an environment in which it can run. Even if you're doing the most advanced machine learning (or something) imaginable, a lot of the work is simply cleaning up the data and presenting results in a lovely manner.
+<!-- I seem to get the least work done right after drinking too much tea or having a poorly timed [energy drink](http://en.wikipedia.org/wiki/Energy_drink). Makes me hyperactive and one second I'm checking twitter, the next I'm looking at hacker news and I just seem to be buzzing all over the place.. -->
 
-And when your brain isn't working at full capacity it looks for something to do. Being tired makes you dumb enough that the task at hand is enough.
+Il me semble que je réussis moins bien à travailler juste après avoir bu trop de thé, ou avoir bu une [boisson énergisante](https://fr.wikipedia.org/wiki/Boisson_%C3%A9nergisante). Ça me rend hyperactif, et une seconde je regarde Twitter, une autre je regarde hacker news, 
 
-## Bright computer screens
+<!-- You'd think I'd work better -- so much energy, so much infinite overclocked brainpower. But instead I keep tripping over myself because I can't focus for more than two seconds at a time. -->
 
-This one is pretty simple. Keep staring at a bright source of light in the evening and your [sleep cycle](http://en.wikipedia.org/wiki/Circadian_rhythm)gets delayed. You forget to be tired until 3am. Then you wake up at 11am and when the evening rolls around you simply aren't tired because hey, you've only been up since 11am!
+Vous pourriez penser que je travaillerais mieux -- tant d'énergie cérébrale accélérée. Mais à la place, je (?) trébuche sur moi-même car je ne peux pas me concentrer plus de deux secondes à la fois.
 
-Image via Wikipedia
+<!-- Conversely, when I'm slightly tired, I just plomp my arse down and _code_. With a slightly tired brain I can code for hours and hours without even thinking about checking twitter or facebook. It's like the internet stops existing. -->
 
-Given enough iterations this can essentially drag you into a different timezone. What's more interesting is that it doesn't seem to keep rolling, once you get into that equilibrium of going to bed between 3am and 4am you tend to stay there.
+À l'inverse, quand je suis un peu fatigué, je pose juste mes fesses sur ma chaise et je _code_. Avec un cerveau peu fatigué je peux coder pendant des heures sans même penser à regarder Twutter ou Facebook. C'est comme si internet cessait d'exsister.
 
-Or maybe that's just the [alarm clocks](http://en.wikipedia.org/wiki/Alarm_clock) doing their thing because society tells us we're dirty dirty slobs if we have breakfast at 2pm.
+<!-- I feel like this holds true for most programmers out there. We have too much brainpower for ~80% of the tasks we work on -- face it, writing that one juicy algorithm, requires ten times as much code to produce an environment in which it can run. Even if you're doing the most advanced machine learning (or something) imaginable, a lot of the work is simply cleaning up the data and presenting results in a lovely manner. -->
+
+Je crois que ceci est vrai plus une grande partie des développeurs là bas. Nous avons trop d'énergie cérébrale pour ~80% de ce que nous faisons -- 
+
+<!-- And when your brain isn't working at full capacity it looks for something to do. Being tired makes you dumb enough that the task at hand is enough. -->
+
+<!-- ## Bright computer screens -->
+
+## Luminosité de l'écran
+
+<!-- This one is pretty simple. Keep staring at a bright source of light in the evening and your [sleep cycle](http://en.wikipedia.org/wiki/Circadian_rhythm)gets delayed. You forget to be tired until 3am. Then you wake up at 11am and when the evening rolls around you simply aren't tired because hey, you've only been up since 11am! -->
+
+Celle-là est très simple. Continuez de regarder une source de lumière dans la soirée, et votre cycle de sommeil sera retardé. Vous aurez oublié avoir été fatigué jusqu'a 3 heure du matin. Vous vous réveillerez à onze heures et quand ce sera la soirée de nouveau, vous ne serez pas fatigué car, hey, vous êtes levés que depuis onze heure !
+
+<!-- Image via Wikipedia -->
+
+Image de Wikipedia
+
+<!-- Given enough iterations this can essentially drag you into a different timezone. What's more interesting is that it doesn't seem to keep rolling, once you get into that equilibrium of going to bed between 3am and 4am you tend to stay there. -->
+
+Avec suffisamment d'itérations ceci pourrait eventiellement vous entrainer dans un fuseau horaire différent. Ce qui est plus intéressant est le fait que cela ne continue pas de tourner, quand vous serez dans l'équilibre d'aller au lit entre 3h et 4h (du matin), vous aurez tendance à rester là bas.
+
+<!-- Or maybe that's just the [alarm clocks](http://en.wikipedia.org/wiki/Alarm_clock) doing their thing because society tells us we're dirty dirty slobs if we have breakfast at 2pm. -->
+
+Ou alors c'est juste les [alarmes]() qui font leur effet car la société nous dis qu'on est des paresseux si on prend notre petit-déjeunez à 14h.
+
+<!-- ## Fin -->
 
 ## Fin
 
-To conclude, programmers work at night because it doesn't impose a time limit on when you have to stop working, which gives you a more relaxed approach, your brain doesn't keep looking for distractions and a bright screen keeps you awake.
+<!-- To conclude, programmers work at night because it doesn't impose a time limit on when you have to stop working, which gives you a more relaxed approach, your brain doesn't keep looking for distractions and a bright screen keeps you awake. -->
 
-###### Related articles
+Pour conclure, les développeurs travaillent la nuit car cela ne vous impose pas de limite de temps pour finir de travailler, ce qui vous donne une approche plus relaxée, votre cerveau n'est pas continuellement à la recherche de distractions et un écran éclairé vous maintient éveillé.
 
-  * [Holding a Program in One's Head (2007)](http://paulgraham.com/head.html) (paulgraham.com)
-  * [The Mature Programmer](http://cbloomrants.blogspot.com/2011/11/11-22-11-mature-programmer.html) (cbloomrants.blogspot.com)
-  * [So You Want to be a Computer Programmer](http://computersight.com/programming/so-you-want-to-be-a-computer-programmer/) (computersight.com)
-  * [Programmers are fucking lazy](http://swizec.com/blog/programmers-are-fucking-lazy/swizec/2648) (swizec.com)
-  * [How to be the 10X programmer](http://blog-johnfn.herokuapp.com/entry/4) (blog-johnfn.herokuapp.com)
-  * [What's in a name? Programmer or Developer](http://bob-roberts.net/2011/11/06/whats-in-a-name-programmer-or-developer/) (bob-roberts.net)
-  * [Why I Will Never Feel Threatened by Programmers in India](http://blog.jpl-consulting.com/2011/12/why-i-will-never-feel-threatened-by-programmers-in-india/) (jpl-consulting.com)
+<!-- ###### Related articles -->
+
+<!-- * [Holding a Program in One's Head (2007)](http://paulgraham.com/head.html) (paulgraham.com) -->
+<!-- * [The Mature Programmer](http://cbloomrants.blogspot.com/2011/11/11-22-11-mature-programmer.html) (cbloomrants.blogspot.com) -->
+<!-- * [So You Want to be a Computer Programmer](http://computersight.com/programming/so-you-want-to-be-a-computer-programmer/) (computersight.com) -->
+<!-- * [Programmers are fucking lazy](http://swizec.com/blog/programmers-are-fucking-lazy/swizec/2648) (swizec.com) -->
+<!-- * [How to be the 10X programmer](http://blog-johnfn.herokuapp.com/entry/4) (blog-johnfn.herokuapp.com) -->
+<!-- * [What's in a name? Programmer or Developer](http://bob-roberts.net/2011/11/06/whats-in-a-name-programmer-or-developer/) (bob-roberts.net) -->
+<!-- * [Why I Will Never Feel Threatened by Programmers in India](http://blog.jpl-consulting.com/2011/12/why-i-will-never-feel-threatened-by-programmers-in-india/) (jpl-consulting.com) -->
