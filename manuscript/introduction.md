@@ -128,6 +128,10 @@ La traduction originale en français a été effectuée par [Andy « Cubox » Pi
 
 <!-- People helping the translation here. -->
 
+Un grand merci aux personnes ayant aidé cette traduction : 
+
+* Valentin « ProgVal » Lorentz
+
 <!-- ## License -->
 
 ## Licence
