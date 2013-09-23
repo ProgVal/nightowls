@@ -124,13 +124,13 @@ Vous pouvez m'écrire à swizec@swizec.com ou via Twitter (@swisec) au moindre c
 
 ## Traduction
 
-La traduction originale en français a été effectuée par [Andy « Cubox » Pilate](http://cubox.me). Vous pouvez le contacter sur Twitter ([@Cubox_](https://twitter.com/Cubox_)) ou par mail via cubox@cubox.me.
+La traduction originale en français a été effectuée par [Andy « Cubox » Pilate](http://cubox.me). Vous pouvez le contacter sur Twitter ([@Cubox_](https://twitter.com/Cubox_)) ou par mail via cubox@cubox.me.
 
 <!-- People helping the translation here. -->
 
 Un grand merci aux personnes ayant aidé cette traduction : 
 
-* Valentin « ProgVal » Lorentz
+* Valentin « ProgVal » Lorentz
 
 <!-- ## License -->
 
@@ -140,6 +140,6 @@ Un grand merci aux personnes ayant aidé cette traduction :
 
 Couverture du livre faite par [@ponywithhiccups](https://twitter.com/ponywithhiccups)
 
-[![Creative Commons Licence](images/creativecommons.png "Creative Commons Licence")](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB)
+[![Creative Commons License](images/creativecommons.png "Creative Commons License")](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB)
 
 Pourquoi les paogrammeurs travaillent la nuit par [Swizec Teller](http://swizec.com) est sous license [Creative commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB)
